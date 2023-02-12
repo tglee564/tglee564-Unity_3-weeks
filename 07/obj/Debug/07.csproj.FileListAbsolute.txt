@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\유니티3주차\01\07\bin\Debug\07.exe.config
+C:\Users\admin\Documents\유니티3주차\01\07\bin\Debug\07.exe
+C:\Users\admin\Documents\유니티3주차\01\07\bin\Debug\07.pdb
+C:\Users\admin\Documents\유니티3주차\01\07\obj\Debug\07.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\유니티3주차\01\07\obj\Debug\07.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\유니티3주차\01\07\obj\Debug\07.exe
+C:\Users\admin\Documents\유니티3주차\01\07\obj\Debug\07.pdb

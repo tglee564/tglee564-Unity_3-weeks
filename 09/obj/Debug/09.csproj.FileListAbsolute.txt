@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\유니티3주차\01\09\obj\Debug\09.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\유니티3주차\01\09\bin\Debug\09.exe.config
+C:\Users\admin\Documents\유니티3주차\01\09\bin\Debug\09.exe
+C:\Users\admin\Documents\유니티3주차\01\09\bin\Debug\09.pdb
+C:\Users\admin\Documents\유니티3주차\01\09\obj\Debug\09.exe
+C:\Users\admin\Documents\유니티3주차\01\09\obj\Debug\09.pdb
